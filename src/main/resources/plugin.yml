@@ -1,0 +1,8 @@
+name: Graveyard
+version: 1.0.0
+main: main.Main
+api-version: 1.13
+softdepend: ['Multiverse-Core']
+commands:
+  graveyard:
+    description: "sets the towny graveyard region"
